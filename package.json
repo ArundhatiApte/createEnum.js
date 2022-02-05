@@ -1,0 +1,13 @@
+{
+  "name": "createEnum",
+  "exports": {
+    ".": "./src/createEnum.js"
+  },
+  "scripts": {
+    "tests": "node ./src/tests.js"
+  },
+  "version": "1.0.0",
+  "devDependencies": {
+    "tester": "github:ArundhatiApte/Tester-JS"
+  }
+}

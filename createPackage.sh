@@ -1,5 +1,7 @@
 #!/bin/sh
 
+rm createEnum.package.zip
+
 zip -r createEnum.package.zip . \
   -x node_modules/\*\
   -x .git/\*\

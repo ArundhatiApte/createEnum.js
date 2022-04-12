@@ -2,9 +2,9 @@
 
 ### Установка
 
-`npm install github:ArundhatiApte/createEnum-JS`  
+`npm install github:ArundhatiApte/createEnum.js`  
 или  
-`yarn add github:ArundhatiApte/createEnum-JS`
+`yarn add github:ArundhatiApte/createEnum.js`
 
 ### Пример использования
 

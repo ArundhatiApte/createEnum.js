@@ -2,9 +2,9 @@
 
 ### Installation
 
-`npm install github:ArundhatiApte/createEnum-JS`  
+`npm install github:ArundhatiApte/createEnum.js`  
 or  
-`yarn add github:ArundhatiApte/createEnum-JS`
+`yarn add github:ArundhatiApte/createEnum.js`
 
 ### Example of usage
 

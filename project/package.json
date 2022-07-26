@@ -4,10 +4,10 @@
     ".": "./src/createEnum.js"
   },
   "scripts": {
-    "tests": "node ./src/tests.js"
+    "test": "node ./src/tests.js"
   },
   "version": "1.0.0",
   "devDependencies": {
-    "tester": "github:ArundhatiApte/Tester.js"
+    "tester": "https://github.com/ArundhatiApte/tester-js/releases/download/v0.1.0/tester.package.tar.gz"
   }
 }

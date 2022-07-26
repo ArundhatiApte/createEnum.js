@@ -2,9 +2,7 @@
 
 ### Установка
 
-`npm install github:ArundhatiApte/createEnum.js`  
-или  
-`yarn add github:ArundhatiApte/createEnum.js`
+`npm install https://`
 
 ### Пример использования
 

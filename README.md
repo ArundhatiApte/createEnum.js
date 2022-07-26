@@ -1,10 +1,8 @@
-### Creating enumeration-object utility
+## Creating enumeration-object utility
 
 ### Installation
 
-`npm install github:ArundhatiApte/createEnum.js`  
-or  
-`yarn add github:ArundhatiApte/createEnum.js`
+`npm install https://github.com/ArundhatiApte/create-enum-js/releases/download/v0.1.0/createEnum.package.tar.gz`
 
 ### Example of usage
 

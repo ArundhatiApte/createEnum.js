@@ -1,8 +1,8 @@
-﻿### Утилита для создания объектов-перечислений
+﻿## Утилита для создания объектов-перечислений
 
 ### Установка
 
-`npm install https://`
+`npm install https://github.com/ArundhatiApte/create-enum-js/releases/download/v0.1.0/createEnum.package.tar.gz`
 
 ### Пример использования
 
